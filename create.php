@@ -16,8 +16,10 @@ include 'header.php';
       <input class="form-check-input" type="checkbox" name="remember"> Remember me
     </label>
   </div>
-  <button type="submit" class="btn btn-primary">Submit</button>
-  <button type="submit" class="btn btn-primary">Back</button>
+  <button type="submit" class="btn btn-primary">Update</button>
+  <button type="submit" class="btn btn-primary">Delete</button>
+  <a class="btn btn-primary" href="index.php"></a>
+
 </form>
 </div>
 
