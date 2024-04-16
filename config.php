@@ -1,5 +1,8 @@
 <?php
 define('DBHOST','localhost');
-define('DBUSER','localhost');
-define('DBUSER','localhost');
+define('DBUSER','root');
+define('DBPASS','');
+define('DBNAME','studentDB');
+
+
 ?>

@@ -1,5 +1,7 @@
 <?php
 include 'header.php';
+
+
 ?>
 <div class="card-body">
 <form action="/action_page.php">
@@ -18,7 +20,7 @@ include 'header.php';
   </div>
   <button type="submit" class="btn btn-primary">Update</button>
   <button type="submit" class="btn btn-primary">Delete</button>
-  <a class="btn btn-primary" href="index.php"></a>
+  <a class="btn btn-primary" href="index.php">Go Back</a>
 
 </form>
 </div>
